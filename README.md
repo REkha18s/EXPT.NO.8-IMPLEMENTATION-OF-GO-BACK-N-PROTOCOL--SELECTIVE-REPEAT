@@ -13,7 +13,7 @@ Personal Computer Turbo C Compiler
 14.	Choose the file and verify the go back protocol operation.
 
 # PROGRAM:
-
+```
 #include<stdio.h> void main()
 {
 
@@ -52,6 +52,6 @@ OUTPUT:
 
 <img width="1280" height="864" alt="image" src="https://github.com/user-attachments/assets/ae390c97-f9f0-4fb5-8d68-266084de7d19" />
 
-
+```
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
